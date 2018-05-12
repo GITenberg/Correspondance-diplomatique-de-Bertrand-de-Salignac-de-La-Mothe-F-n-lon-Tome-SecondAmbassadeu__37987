@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '39892'
     url: http://www.gutenberg.org/2009/agents/39892
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37987#Correspondance-diplomatique-de-Bertrand-de-Salignac-de-La-Mothe-F-n-lon-Tome-SecondAmbassadeu_
 gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
 gutenberg_issued: '2011-11-12'
 gutenberg_type: Text
